@@ -27,7 +27,7 @@ real scientific workflows.
 
 - [ORCID](https://orcid.org/0000-0003-0696-3505)
 - [Google Scholar](https://scholar.google.com/citations?user=xCCfRCYAAAAJ&hl=en)
-- [LinkedIn](https://www.linkedin.com/in/micha%C5%82-oskiera-9b52804b/)
+- [LinkedIn](www.linkedin.com/in/michał-oskiera-9b52804b)
 - [ResearchGate](https://www.researchgate.net/profile/Michal-Oskiera)
 
 ## Current affiliation
