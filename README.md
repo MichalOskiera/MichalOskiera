@@ -7,7 +7,7 @@ metagenomics, transcriptomics, NGS, scientific computing, and agentic AI for sci
 I develop and apply reproducible computational workflows for biological research,
 primarily in **Linux, R, Bash, and Python**. My current methodological interests
 include AI-assisted bioinformatics, scientific evidence processing, scientific RAG,
-tool-using agents, provenance, reproducibility, and evaluation of agentic AI in
+tool-using agents, provenance, reproducibility, and evaluation of agentic AI and XAI methods in
 real scientific workflows.
 
 ## Research & technical interests
@@ -22,6 +22,7 @@ real scientific workflows.
 - Agentic AI for scientific workflows
 - Scientific RAG and evidence processing
 - AI evaluation, provenance, and reproducibility
+- XAI
 
 ## Research profiles
 
